@@ -1,0 +1,1 @@
+# wayoftheninja.github.io

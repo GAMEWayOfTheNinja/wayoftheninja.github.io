@@ -5,6 +5,12 @@
       "folder": "Game/",
       "version": 0.1,
       "save_as": "LEIA-ME.txt"
+    },
+    {
+      "files": [ "WayOfTheNinja.exe" ],
+      "folder": "Game/",
+      "version": 0.1,
+      "save_as": "WayOfTheNinja.exe"
     }
   ]
 }

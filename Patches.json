@@ -2,7 +2,7 @@
   "patches": [
     {
       "files": [ "LEIA-ME.txt" ],
-      "folder": "/",
+      "folder": "Game/",
       "version": 0.1,
       "save_as": "LEIA-ME.txt"
     }

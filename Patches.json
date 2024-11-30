@@ -2,13 +2,13 @@
   "patches": [
     {
       "files": [ "LEIA-ME.txt" ],
-      "folder": "Game/",
+      "folder": "game/",
       "version": 0.1,
       "save_as": "LEIA-ME.txt"
     },
     {
       "files": [ "WayOfTheNinja.exe" ],
-      "folder": "Game/",
+      "folder": "game/",
       "version": 0.1,
       "save_as": "WayOfTheNinja.exe"
     }

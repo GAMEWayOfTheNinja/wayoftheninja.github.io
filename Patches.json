@@ -43,10 +43,10 @@
       "save_as": "boost_atomic-mt-x64.dll"
     },
     {
-      "files": [ "boost_chrono-mt-x64" ],
+      "files": [ "boost_chrono-mt-x64.dll" ],
       "folder": "Game/WayOfTheNinja/Binaries/Win64",
       "version": 0.1,
-      "save_as": "boost_chrono-mt-x64"
+      "save_as": "boost_chrono-mt-x64.dll"
     },
     {
       "files": [ "boost_filesystem-mt-x64.dll" ],

@@ -85,6 +85,12 @@
       "save_as": "boost_thread-mt-x64.dll"
     },
     {
+      "files": [ "boost_python311-mt-x64.dll" ],
+      "folder": "Game/WayOfTheNinja/Binaries/Win64",
+      "version": 0.1,
+      "save_as": "boost_python311-mt-x64.dll"
+    },
+    {
       "files": [ "tbb.dll" ],
       "folder": "Game/WayOfTheNinja/Binaries/Win64",
       "version": 0.1,

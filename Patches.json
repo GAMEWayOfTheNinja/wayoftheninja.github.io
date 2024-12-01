@@ -2,115 +2,115 @@
   "patches": [
     {
       "files": [ "LEIA-ME.txt" ],
-      "folder": "game/",
+      "folder": "Game/",
       "version": 0.1,
       "save_as": "LEIA-ME.txt"
     },
     {
       "files": [ "WayOfTheNinja.exe" ],
-      "folder": "game/",
+      "folder": "Game/",
       "version": 0.1,
       "save_as": "WayOfTheNinja.exe"
     },
     {
       "files": [ "global.ucas" ],
-      "folder": "game/WayOfTheNinja/Content/Paks",
+      "folder": "Game/WayOfTheNinja/Content/Paks",
       "version": 0.1,
       "save_as": "global.ucas"
     },
     {
       "files": [ "global.utoc" ],
-      "folder": "game/WayOfTheNinja/Content/Paks",
+      "folder": "Game/WayOfTheNinja/Content/Paks",
       "version": 0.1,
       "save_as": "global.utoc"
     },
     {
       "files": [ "WayOfTheNinja-Windows.pak" ],
-      "folder": "game/WayOfTheNinja/Content/Paks",
+      "folder": "Game/WayOfTheNinja/Content/Paks",
       "version": 0.1,
       "save_as": "WayOfTheNinja-Windows.pak"
     },
     {
       "files": [ "WayOfTheNinja-Windows.utoc" ],
-      "folder": "game/WayOfTheNinja/Content/Paks",
+      "folder": "Game/WayOfTheNinja/Content/Paks",
       "version": 0.1,
       "save_as": "WayOfTheNinja-Windows.utoc"
     },
     {
       "files": [ "boost_atomic-mt-x64.dll" ],
-      "folder": "game/WayOfTheNinja/Binaries/Win64",
+      "folder": "Game/WayOfTheNinja/Binaries/Win64",
       "version": 0.1,
       "save_as": "boost_atomic-mt-x64.dll"
     },
     {
       "files": [ "boost_chrono-mt-x64" ],
-      "folder": "game/WayOfTheNinja/Binaries/Win64",
+      "folder": "Game/WayOfTheNinja/Binaries/Win64",
       "version": 0.1,
       "save_as": "boost_chrono-mt-x64"
     },
     {
       "files": [ "boost_filesystem-mt-x64.dll" ],
-      "folder": "game/WayOfTheNinja/Binaries/Win64",
+      "folder": "Game/WayOfTheNinja/Binaries/Win64",
       "version": 0.1,
       "save_as": "boost_filesystem-mt-x64.dll"
     },
     {
       "files": [ "boost_iostreams-mt-x64.dll" ],
-      "folder": "game/WayOfTheNinja/Binaries/Win64",
+      "folder": "Game/WayOfTheNinja/Binaries/Win64",
       "version": 0.1,
       "save_as": "boost_iostreams-mt-x64.dll"
     },
     {
       "files": [ "boost_program_options-mt-x64.dll" ],
-      "folder": "game/WayOfTheNinja/Binaries/Win64",
+      "folder": "Game/WayOfTheNinja/Binaries/Win64",
       "version": 0.1,
       "save_as": "boost_program_options-mt-x64.dll"
     },
     {
       "files": [ "boost_regex-mt-x64.dll" ],
-      "folder": "game/WayOfTheNinja/Binaries/Win64",
+      "folder": "Game/WayOfTheNinja/Binaries/Win64",
       "version": 0.1,
       "save_as": "boost_regex-mt-x64.dll"
     },
     {
       "files": [ "boost_system-mt-x64.dll" ],
-      "folder": "game/WayOfTheNinja/Binaries/Win64",
+      "folder": "Game/WayOfTheNinja/Binaries/Win64",
       "version": 0.1,
       "save_as": "boost_system-mt-x64.dll"
     },
     {
       "files": [ "boost_thread-mt-x64.dll" ],
-      "folder": "game/WayOfTheNinja/Binaries/Win64",
+      "folder": "Game/WayOfTheNinja/Binaries/Win64",
       "version": 0.1,
       "save_as": "boost_thread-mt-x64.dll"
     },
     {
       "files": [ "tbb.dll" ],
-      "folder": "game/WayOfTheNinja/Binaries/Win64",
+      "folder": "Game/WayOfTheNinja/Binaries/Win64",
       "version": 0.1,
       "save_as": "tbb.dll"
     },
     {
       "files": [ "tbbmalloc.dll" ],
-      "folder": "game/WayOfTheNinja/Binaries/Win64",
+      "folder": "Game/WayOfTheNinja/Binaries/Win64",
       "version": 0.1,
       "save_as": "tbbmalloc.dll"
     },
     {
       "files": [ "DirectML.dll" ],
-      "folder": "game/WayOfTheNinja/Binaries/Win64/DML",
+      "folder": "Game/WayOfTheNinja/Binaries/Win64/DML",
       "version": 0.1,
       "save_as": "DirectML.dll"
     },
     {
       "files": [ "D3D12Core.dll" ],
-      "folder": "game/WayOfTheNinja/Binaries/Win64/D3D12",
+      "folder": "Game/WayOfTheNinja/Binaries/Win64/D3D12",
       "version": 0.1,
       "save_as": "D3D12Core.dll"
     },
     {
       "files": [ "d3d12SDKLayers.dll" ],
-      "folder": "game/WayOfTheNinja/Binaries/Win64/D3D12",
+      "folder": "Game/WayOfTheNinja/Binaries/Win64/D3D12",
       "version": 0.1,
       "save_as": "d3d12SDKLayers.dll"
     }
